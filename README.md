@@ -16,12 +16,12 @@
 </div>
 <hr>
 
-<h2>Installation</h2>
+<h2>🔎 Installation</h2>
   
 - Clone this repository
 - Open app settings
 - Add this to app settings
   
-<h2>Thanks<h2>
+<h2>💜 Thanks<h2>
 
 - [Contribuitor](https://github.com/levuaska)
